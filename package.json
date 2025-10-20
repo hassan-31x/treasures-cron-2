@@ -1,0 +1,32 @@
+{
+  "name": "cron-temp-mr",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js batch",
+    "test": "node src/index.js test",
+    "test-single": "node src/index.js test-single",
+    "preview": "node src/index.js preview",
+    "single": "node src/index.js single",
+    "batch": "node src/index.js batch",
+    "debug": "node debug.js",
+    "test-graphql": "node test-graphql.js",
+    "test-filter": "node test-filter.js",
+    "delete-products": "node deleteProductsByDate.js",
+    "delete-products-dry": "node deleteProductsByDate.js --dry-run",
+    "count-products": "node countProducts.js",
+    "process-api": "node processAPIProducts.js",
+    "process-api-dry": "node processAPIProducts.js --dry-run",
+    "process-api-limited": "node processAPIProducts.js --max-pages 5"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.12.2",
+    "csv-parser": "^3.2.0",
+    "winston": "^3.11.0",
+    "dotenv": "^16.3.1"
+  }
+}
