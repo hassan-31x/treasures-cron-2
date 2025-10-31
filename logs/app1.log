@@ -5596,3 +5596,31 @@ Sample of products to be deleted (showing 5 of 7564):
 2025-10-20 14:59:20 [INFO]: Waiting 2000ms before next batch...
 2025-10-20 14:59:22 [INFO]: Processing batch 1513/1513 (4 products)
 2025-10-20 14:59:23 [INFO]:   Batch completed: 4 deleted, 0 errors
+2025-10-22 00:18:51 [INFO]: Connected to shop: Treasures Jewelers
+2025-10-22 00:18:51 [INFO]: ✓ GraphQL connection successful: Treasures Jewelers
+2025-10-22 00:18:51 [INFO]: Shopify client initialized successfully
+2025-10-22 00:18:51 [INFO]: Connected to: https://f1i6g8-b1.myshopify.com
+2025-10-22 00:18:51 [INFO]: Shopify connection verified
+2025-10-22 00:18:51 [INFO]: 🚀 Shopify Stats Server running on port 3000
+2025-10-22 00:18:51 [INFO]: 📊 Dashboard available at: http://localhost:3000
+2025-10-22 00:18:51 [INFO]: 🔗 API endpoints available at: http://localhost:3000/api/*
+2025-10-22 00:19:24 [INFO]: Connected to shop: Treasures Jewelers
+2025-10-22 00:19:24 [INFO]: ✓ GraphQL connection successful: Treasures Jewelers
+2025-10-22 00:19:24 [INFO]: Shopify client initialized successfully
+2025-10-22 00:19:24 [INFO]: Connected to: https://f1i6g8-b1.myshopify.com
+2025-10-22 00:19:24 [INFO]: Shopify connection verified
+2025-10-22 00:19:24 [INFO]: 🚀 Shopify Stats Server running on port 3001
+2025-10-22 00:19:24 [INFO]: 📊 Dashboard available at: http://localhost:3001
+2025-10-22 00:19:24 [INFO]: 🔗 API endpoints available at: http://localhost:3001/api/*
+2025-10-22 00:19:31 [INFO]: GET /api - ::1
+2025-10-22 00:19:46 [INFO]: GET /api/products/stats - ::1
+2025-10-22 00:19:46 [INFO]: Fetching products statistics...
+2025-10-22 00:19:46 [INFO]: Fetched 0 existing products from Shopify
+2025-10-22 00:19:46 [INFO]: GET /favicon.ico - ::1
+2025-10-22 00:19:54 [INFO]: GET /api/products/list - ::1
+2025-10-22 00:19:54 [INFO]: Fetching products list - Page: 1, Limit: 20, Status: null
+2025-10-22 00:19:54 [INFO]: Fetched 0 existing products from Shopify
+2025-10-22 00:20:05 [INFO]: GET /api/categories/stats - ::1
+2025-10-22 00:20:05 [INFO]: Fetching categories statistics...
+2025-10-22 00:20:06 [INFO]: Fetched 0 existing products from Shopify
+2025-10-22 00:20:21 [INFO]: Shutting down server...
